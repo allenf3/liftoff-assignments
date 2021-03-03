@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+This project will help field service staff or managers to find the best route when heading out to do a small number of jobs. In addition, it will allow tracking of regularly visited locations and will use an API to ensure that a normalized version of the address is stored in the database.
 ### Features
-Include Features here
+1.	User login and segregation of user data
+2.	CRUD actions for stored locations
+3.	Ability to select a number of stored locations to get the most efficient route
 ### Technologies
-Include Technologies here
+•	C# 9
+•	ASP.Net Core 5
+•	Bootstrap
+•	(maybe) JavaScript
 ### What I'll Have to Learn
-Include what you will need to learn here
+How to connect to the 2 APIs I will need to use (Melissa for address normalization and Bing Maps for routing data)
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/invite/b/ZEENjhE6/8de02bafacdbc066a45031d04d831f3e/liftoff-project
