@@ -17,6 +17,8 @@ This project will help field service staff or managers to find the best route wh
 •	ASP.Net Core 5
 •	Bootstrap
 •	(maybe) JavaScript
+• Melissa API
+• Bing Maps
 ### What I'll Have to Learn
 How to connect to the 2 APIs I will need to use (Melissa for address normalization and Bing Maps for routing data)
 ### Project Tracker
