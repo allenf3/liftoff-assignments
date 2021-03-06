@@ -19,20 +19,20 @@ This project will help field service staff or managers to find the best route wh
 3. Schedule jobs
 4. Track resources required for jobs
 ### Technologies
-•	C# 9
-• Blazor (Client-side)
-•	ASP.Net Core 5
-•	Bootstrap
-•	(maybe) JavaScript
-• Melissa API
-• Bing Maps
-• ASP.Net Core Identity (for login)
-• CosmosDb (for persistence)
+1. C# 9
+2. Blazor (Client-side)
+3. ASP.Net Core 5
+4. Bootstrap
+5. (maybe) JavaScript
+6. Melissa API
+7. Bing Maps
+8. ASP.Net Core Identity (for login)
+9. CosmosDb (for persistence)
 ### What I'll Have to Learn
-How to connect to the 2 APIs I will need to use (Melissa for address normalization and Bing Maps for routing data)
-How to solve traveling salesman type problems
-How to use NoSql data stores
-How to use Blazor
-Tree data structures?
+1. How to connect to the 2 APIs I will need to use (Melissa for address normalization and Bing Maps for routing data)
+2. How to solve traveling salesman type problems
+3. How to use NoSql data stores
+4. How to use Blazor
+5. Tree data structures?
 ### Project Tracker
 https://trello.com/invite/b/ZEENjhE6/8de02bafacdbc066a45031d04d831f3e/liftoff-project
