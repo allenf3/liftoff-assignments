@@ -9,17 +9,30 @@ For this assignment, you will submit a high-level outline of your project. This 
 ### Overview
 This project will help field service staff or managers to find the best route when heading out to do a small number of jobs. In addition, it will allow tracking of regularly visited locations and will use an API to ensure that a normalized version of the address is stored in the database.
 ### Features
-1.	User login and segregation of user data
-2.	CRUD actions for stored locations
-3.	Ability to select a number of stored locations to get the most efficient route
+[MVP]
+1. User login and segregation of user data
+2. CRUD actions for stored locations
+3. Ability to select a number of stored locations to get the most efficient route
+[Beyond MVP]
+1. Save previously computed routes to avoid recalculation
+2. Allow for rough (perhaps not the most efficient, but close) computation of larger sets of locations
+3. Schedule jobs
+4. Track resources required for jobs
 ### Technologies
 •	C# 9
+• Blazor (Client-side)
 •	ASP.Net Core 5
 •	Bootstrap
 •	(maybe) JavaScript
 • Melissa API
 • Bing Maps
+• ASP.Net Core Identity (for login)
+• CosmosDb (for persistence)
 ### What I'll Have to Learn
 How to connect to the 2 APIs I will need to use (Melissa for address normalization and Bing Maps for routing data)
+How to solve traveling salesman type problems
+How to use NoSql data stores
+How to use Blazor
+Tree data structures?
 ### Project Tracker
 https://trello.com/invite/b/ZEENjhE6/8de02bafacdbc066a45031d04d831f3e/liftoff-project
