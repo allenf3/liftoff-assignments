@@ -32,8 +32,9 @@ This project will help field service staff or managers to find the best route wh
 ### What I'll Have to Learn
 1. How to connect to the 2 APIs I will need to use (Melissa for address normalization and Bing Maps for routing data)
 2. How to solve traveling salesman type problems
-3. How to use NoSql data stores
-4. How to use Blazor
-5. Tree data structures?
+3. How to use Azure Key vault to secure the connection string for the user database and the NoSQL database
+4. How to use NoSql data stores
+5. How to use Blazor
+6. Tree data structures?
 ### Project Tracker
 https://trello.com/invite/b/ZEENjhE6/8de02bafacdbc066a45031d04d831f3e/liftoff-project
