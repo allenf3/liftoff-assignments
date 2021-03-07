@@ -13,6 +13,7 @@ This project will help field service staff or managers to find the best route wh
 1. User login and segregation of user data
 2. CRUD actions for stored locations
 3. Ability to select a number of stored locations to get the most efficient route
+
 [Beyond MVP]
 1. Save previously computed routes to avoid recalculation
 2. Allow for rough (perhaps not the most efficient, but close) computation of larger sets of locations
