@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-https://github.com/allenf3/liftoff-assignments/tree/master/P3-Project_Planning
+https://github.com/allenf3/liftoff-assignments/blob/master/P3-Project_Planning/Wireframes.pdf
 
 ### Project Tracker
 
